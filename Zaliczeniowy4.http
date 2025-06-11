@@ -1,0 +1,6 @@
+@Zaliczeniowy4_HostAddress = http://localhost:5094
+
+GET {{Zaliczeniowy4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
